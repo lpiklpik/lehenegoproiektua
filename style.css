@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+h1 {
+    font-family: "Dosis", sans-serif;
+    color: purple;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: "Dosis", sans-serif;
+    color: orange;
+    font-size: 16px;
+}
+
+p {
+    font-family: "Dosis", sans-serif;
+    letter-spacing: 1px;
+    color: teal;
+    font-size: 16px;
+}
+
